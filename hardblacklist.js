@@ -1,0 +1,20 @@
+
+module.exports = [
+	"S_ANNOUNCE_UPDATE_NOTIFICATION",
+	"S_REQUEST_REACTION_POS_TICK",
+	"S_BROADCAST_FLOATING_CASTLE_NAMEPLATE",
+	"S_UPDATE_ACHIEVEMENT_PROGRESS",
+	"S_MATCH_ROOM_DELETE",
+	"S_SOCIAL",
+
+	"S_CHECK_RTT",
+	"S_GET_MY_IP",
+
+	"S_NPC_LOCATION",
+
+	// ------------------------------ USER ------------------------------ //
+
+	"S_PLAYER_CHANGE_HP",
+	"S_PLAYER_CHANGE_MP"
+
+];

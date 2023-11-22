@@ -1,0 +1,11 @@
+{
+    "disableAutoUpdate": false,
+    "name": "PacketsLogger",
+    "options": {
+        "niceName": "PacketsLogger",
+        "guiName": "PacketsLogger",
+        "reloadable": true
+    },
+    "servers": ["https://raw.githubusercontent.com/FrostSigil/PacketsLogger/master/"],
+    "description": "Description goes here."
+}

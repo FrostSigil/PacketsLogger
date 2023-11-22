@@ -1,0 +1,16 @@
+{
+    "files": {
+        "README.md": "e1c31164ecdfc7ba4870d257ba039e4829cb831b99cabb70418aea1bd9db3c1a",
+        "blacklist.js": "f5f07e31acca56bda081b3076137c3642e1d152a47fc34c84746adf33e2098c6",
+        "hardblacklist.js": "ea147dc8656be9e50144c051c1677d21ad42bc646cfbffd854f15e2122f04d12",
+        "index.js": "649a4a1baed15a6fe1436076ba4abcc5c76f16f55e548dca095e283dd0df4e4a",
+        "module.json": "8ede3fa43fbc0eab6a92e34877332134b42ad224e036088bb35db86e3ec6e239",
+        "node_modules/hexy/LICENSE": "2b6330601c13a0754c2c4669e01017b2a5b5a122e0f8f8f5423ac226647103ff",
+        "node_modules/hexy/README.md": "c6a3ec4309c6ec34f234c6929220e75245cc331f209dde8486fc6f61b407a422",
+        "node_modules/hexy/bin/hexy_cmd.js": "67c6909d3362f868b469d54f084e901c59e9eaf85fd93274f9f668254bc4b4e7",
+        "node_modules/hexy/hexy.js": "7471224428645d5a13f42e0ef545ee8edfdf0358f0ce29c1dbed5d5fc3fb320d",
+        "node_modules/hexy/index.d.ts": "1c6750007bc15e096d072beea89ff3b928f56e1eb604059422ffbe8a45731473",
+        "node_modules/hexy/package-lock.json": "c24cff1892251c4b61c4b6bb719301763f053ef54e8ab3a18ff2995466a3d74d",
+        "node_modules/hexy/test.html": "32ef060f9a6f39300fb7c354c836016b5c7260f194a32bc186b2decef5afb715"
+    }
+}
