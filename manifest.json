@@ -1,8 +1,14 @@
 {
     "files": {
         "README.md": "e1c31164ecdfc7ba4870d257ba039e4829cb831b99cabb70418aea1bd9db3c1a",
-        "blacklist.js": "f5f07e31acca56bda081b3076137c3642e1d152a47fc34c84746adf33e2098c6",
-        "hardblacklist.js": "ea147dc8656be9e50144c051c1677d21ad42bc646cfbffd854f15e2122f04d12",
+        "blacklist.js": {
+            "overwrite": false,
+            "hash": "f5f07e31acca56bda081b3076137c3642e1d152a47fc34c84746adf33e2098c6"
+        },
+        "hardblacklist.js": {
+            "overwrite": false,
+            "hash": "ea147dc8656be9e50144c051c1677d21ad42bc646cfbffd854f15e2122f04d12"
+        },
         "index.js": "649a4a1baed15a6fe1436076ba4abcc5c76f16f55e548dca095e283dd0df4e4a",
         "module.json": "8ede3fa43fbc0eab6a92e34877332134b42ad224e036088bb35db86e3ec6e239",
         "node_modules/hexy/LICENSE": "2b6330601c13a0754c2c4669e01017b2a5b5a122e0f8f8f5423ac226647103ff",
